@@ -21,3 +21,24 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Add to git Igno
+.venv/
+venv/
+node_modules/
+__pycache__/
+dist/
+build/
+.env
+*.pyc
+.env.local
+*.log
+/study-agent/AnswerDB/
+*.sqlite3
+*.bin
+backend/.venv/
+backend/data/
+backend/uploads/
+backend/vector_store/
+frontend/node_modules/
+frontend/dist/
